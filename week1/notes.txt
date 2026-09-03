@@ -1,0 +1,3 @@
+Focus on 3, 5, 8, 9, 10, 11, maybe 17
+Do interaction code for q5
+Demo q9
